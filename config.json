@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filtereerify",
+        "uuid": 288150,
+        "checksum": "m6p30a"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
